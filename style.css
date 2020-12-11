@@ -1,0 +1,53 @@
+body(
+ 		background-color: 
+ 		color:#cc0e74
+ 		font-family: Castoro;
+ 		)
+
+h1,h2(
+	font-family: castoro;
+	)
+
+h1(
+	color: #ffa5a5;
+	font-weight: 400;
+	letter-spacing: 7px;
+	font-size: 80px;
+	text-transform: uppercase;
+	)
+
+h2(
+	color: #e05297
+	font-family: cambria;
+	font-weight: lighter;
+	letter-spacing: 7px;
+	font-size; 40px
+	text-transform; uppercase
+
+	)
+
+a(
+
+	text-decoration: none;
+	color: #ffa5a5;
+	font-size: 20px
+	font-weight: bold;
+	)
+
+	img-cirle(
+		border-radius: 30%
+
+		)
+
+	#introduction p(
+		margin-bottom: 40px;
+		)
+
+
+
+
+
+
+
+
+
